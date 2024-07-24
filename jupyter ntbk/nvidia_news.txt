@@ -1,0 +1,10 @@
+The Nvidia GeForce RTX 4070, one of the best graphics cards currently available, has hit its all-time low price of $499 for Prime Day 2024. You can find the card at Newegg, where a $35 instant rebate (code FANDUA5762) drops the price from its normal $535 down to the sub-$500 range. It's an excellent deal on a GPU that offers everything you could want for gaming, AI, and other tasks.
+
+If you check our GPU benchmarks hierarchy, you'll see that the RTX 4070 effectively replaces the previous generation RTX 3080 (10GB) while adding new features and capabilities. We're rather ho-hum on DLSS 3 Frame Generation, which adds latency while injecting generated frames into the stream. But even if you dismiss that feature, you get improved video codec support with AV1, plus excellent efficiency.
+This isn't just a bog-standard, no-frills RTX 4070 card, either. The Gigabyte RTX 4070 Gaming OC comes with triple RGB fans and a large cooler, with some additional lighting on the Gigabyte logo. The factory overclock of 2565 MHz represents a 90 MHz (3.6%) increase over the reference card as well, though in practice, we've seen most 4070 cards run at speeds in excess of 2.7 GHz.
+
+You also get 12GB of GDDR6X memory running at 21 Gbps on a 192-bit memory interface. That provides raw bandwidth of 504 GB/s, but the large 36MB L2 cache increases the effective bandwidth by around 50%, meaning the card acts more like it has ~750 MB/s of memory throughput.
+
+Ray tracing and AI continue to be strong points for Nvidia's Ada Lovelace RTX 40-series GPUs, and the RTX 4070 outpaces its direct AMD competition, the Radeon RX 7800 XT, by over 20% in our ray tracing tests. AMD's card does hold a 10% advantage in rasterization performance, but when you factor in the superior image quality of DLSS upscaling, plus its wider support base, ultimately, we find the RTX 4070 comes out on top.
+
+If you're in the market for a new 'mainstream' graphics card, this likely represents the best deal we'll see on an RTX 4070 until the Black Friday sales arrive in November.

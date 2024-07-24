@@ -1,0 +1,11 @@
+streamlit
+pickle
+time
+google-generativeai
+langchain
+RetrievalQAWithSourcesChain
+RecursiveCharacterTextSplitter
+UnstructuredURLLoader
+GoogleGenerativeAIEmbeddings
+faiss-cpu
+ChatGoogleGenerativeAI
