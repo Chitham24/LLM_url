@@ -3,9 +3,6 @@ pickle
 time
 google-generativeai
 langchain
-RetrievalQAWithSourcesChain
-RecursiveCharacterTextSplitter
-UnstructuredURLLoader
-GoogleGenerativeAIEmbeddings
+langchain-community
+langchain-google-genai
 faiss-cpu
-ChatGoogleGenerativeAI
