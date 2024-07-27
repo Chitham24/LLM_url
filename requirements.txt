@@ -1,6 +1,4 @@
 streamlit
-pickle
-time
 google-generativeai
 langchain
 langchain-community
