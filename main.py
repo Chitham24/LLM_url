@@ -17,7 +17,7 @@ load_dotenv()
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.7)
 
 st.title("URL Reader")
-st.sidebar.title("Enetr News Article URLs")
+st.sidebar.title("Enter News Article URLs")
 
 urls = []
 
